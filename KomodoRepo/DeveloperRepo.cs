@@ -49,7 +49,6 @@ namespace KomodoRepo
                 return false;
             }
         }
-        // DELETE
         public bool RemoveDeveloper(Developer existingContent)
         {
             bool deleteResult = _contentDirectory.Remove(existingContent);
