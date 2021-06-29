@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace KomodoRepo
 {
-        //POCO
         public class Developer
         {
             public string FirstName { get; set; }
