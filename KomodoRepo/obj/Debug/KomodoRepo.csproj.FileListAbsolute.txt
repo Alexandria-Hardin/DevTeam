@@ -1,0 +1,2 @@
+\\Mac\Home\Desktop\ElevenFiftyProjects\DotNetProjects\Komodo_Insurance_UI\KomodoRepo\obj\Debug\KomodoRepo.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\ElevenFiftyProjects\DotNetProjects\Komodo_Insurance_UI\KomodoRepo\obj\Debug\KomodoRepo.csproj.CoreCompileInputs.cache
